@@ -1,4 +1,4 @@
-module github.com/tasukuwatanabe/go-bookstore
+module github.com/tasukuwatanabe/fcc-go-projects/go-bookstore
 
 go 1.25.5
 
